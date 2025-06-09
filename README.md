@@ -36,7 +36,9 @@ Este perfil utiliza:
 
 ## 📜 Licencia
 
-Este proyecto se distribuye bajo la licencia MIT. Eres libre de modificarlo y usarlo con fines personales.
+Este proyecto es de uso libre solo para fines personales o educativos, **pero no puede ser modificado ni redistribuido sin permiso del autor**.
+
+Consulta el archivo [`LICENSE.txt`](./LICENSE.txt) para más detalles.
 
 ## ✍️ Autor
 
