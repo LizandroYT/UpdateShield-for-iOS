@@ -15,4 +15,4 @@ Se concede permiso para **usar, instalar y compartir** este archivo con fines **
 
 ---
 
-Este software se proporciona **"tal cual"**, sin garantía de ningún tipo.
+Este **"software"** se proporciona **"tal cual"**, sin garantía de ningún tipo.
