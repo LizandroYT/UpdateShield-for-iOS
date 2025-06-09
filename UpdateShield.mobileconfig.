@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>PayloadContent</key>
+    <array>
+        <dict>
+            <key>DNSSettings</key>
+            <dict>
+                <key>DNSProtocol</key>
+                <string>HTTPS</string>
+                <key>ServerURL</key>
+                <string></string>
+            </dict>
+            <key>OnDemandRules</key>
+            <array>
+                <dict>
+                    <key>Action</key>
+                    <string>EvaluateConnection</string>
+                    <key>ActionParameters</key>
+                    <array>
+                        <dict>
+                            <key>DomainAction</key>
+                            <string>NeverConnect</string>
+                            <key>Domains</key>
+                            <array>
+                                <!-- Dominios de actualización de Apple -->
+                                <string>mesu.apple.com</string>
+                                <string>appldnld.apple.com</string>
+                                <string>gdmf.apple.com</string>
+                                <string>updates.cdn-apple.com</string>
+                                <string>swscan.apple.com</string>
+                                <string>swquery.apple.com</string>
+                                <string>swdownload.apple.com</string>
+                                <string>swcdn.apple.com</string>
+                                <string>swdist.apple.com</string>
+                                <string>su.itunes.apple.com</string>
+                                <string>oscdn.apple.com</string>
+                                <string>osrecovery.apple.com</string>
+                                <string>osxapps.itunes.apple.com</string>
+                                <string>osxapps.apple.com</string>
+                                <string>content-cdn.apple.com</string>
+                                <string>updates-http.cdn-apple.com</string>
+                                <string>xp.apple.com</string>
+                                <string>iphone-wu.apple.com</string>
+                                <string>iphone-wu.apple.com.akadns.net</string>
+                                <string>gs.apple.com</string>
+                                <string>gs.apple.com.akadns.net</string>
+                                <string>mdmenrollment.apple.com</string>
+                                <string>deviceenrollment.apple.com</string>
+                                <string>configuration.apple.com</string>
+                                <string>appldnld.apple.com.edgesuite.net</string>
+                                <string>appldnld.apple.com.akadns.net</string>
+                                <string>appldnld.apple.com.edgekey.net</string>
+                                <string>albert.apple.com</string>
+                                <string>validation.apple.com</string>
+                                <string>itunes.apple.com</string>
+                                <string>apps.apple.com</string>
+                                <string>p16-buy.itunes.apple.com</string>
+                                <string>p16-keyvalueservice.ess.apple.com</string>
+                                <string>p16-mail.ess.apple.com</string>
+                                <string>vpp.itunes.apple.com</string>
+                                <string>cdn-apple.com</string>
+                                <string>apple.com.edgesuite.net</string>
+                                <string>akadns.net</string>
+                                <string>content.icloud.com</string>
+                                <string>supportdownload.apple.com</string>
+                                <string>download.info.apple.com</string>
+                                <string>appldnld.g.applimg.com</string>
+                                <string>appldnld.g.aaplimg.com</string>
+                                <string>captive.apple.com</string>
+                            </array>
+                        </dict>
+                    </array>
+                </dict>
+                <dict>
+                    <key>Action</key>
+                    <string>Connect</string>
+                </dict>
+            </array>
+            <key>PayloadDisplayName</key>
+            <string>UpdateShield DNS</string>
+            <key>PayloadIdentifier</key>
+            <string>com.lizandroyt.updateshield.dns</string>
+            <key>PayloadOrganization</key>
+            <string>Lizandro YT</string>
+            <key>PayloadType</key>
+            <string>com.apple.dnsSettings.managed</string>
+            <key>PayloadUUID</key>
+            <string>123e4567-e89b-12d3-a456-426614174aaa</string>
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+        </dict>
+    </array>
+    <key>PayloadDescription</key>
+    <string>Este perfil bloquea todos los dominios conocidos de actualizaciones de Apple para evitar que iOS se actualice automáticamente.</string>
+    <key>PayloadDisplayName</key>
+    <string>UpdateShield for iOS</string>
+    <key>PayloadIdentifier</key>
+    <string>com.lizandroyt.updateshield</string>
+    <key>PayloadOrganization</key>
+    <string>Lizandro YT</string>
+    <key>PayloadScope</key>
+    <string>User</string>
+    <key>PayloadType</key>
+    <string>Configuration</string>
+    <key>PayloadUUID</key>
+    <string>123e4567-e89b-12d3-a456-426614174aab</string>
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+</dict>
+</plist>
