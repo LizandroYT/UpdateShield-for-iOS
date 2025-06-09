@@ -61,7 +61,6 @@ Consulta el archivo [`LICENSE.md`](./LICENSE.md) para más detalles.
 ## ✍️ Autor
 
 **Lizandro YT**  
-[![YouTube](https://img.shields.io/badge/YouTube-LizandroYT-red?style=flat&logo=youtube)](https://youtube.com/@lizandro_yt_ofc)  
 [![Telegram](https://img.shields.io/badge/Telegram-LizandroYT-blue?style=flat&logo=telegram)](https://t.me/Lizandro_YT_OFC)
 
 ---
