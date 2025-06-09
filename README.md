@@ -22,7 +22,7 @@
 
 1. Haz clic en el botón para descargar el perfil:  
 
-   [![Descargar](https://img.shields.io/badge/Descargar-UpdateShield--iOS.mobileconfig-blue?style=for-the-badge&logo=download)](https://github.com/LizandroYT/UpdateShield-for-iOS/releases/download/v0.1-beta/UpdateShield-iOS.mobileconfig)
+   [![Descargar](https://img.shields.io/badge/Descargar-UpdateShield--iOS.mobileconfig-blue?style=for-the-badge&logo=download)]([https://github.com/LizandroYT/UpdateShield-for-iOS/releases/download/v0.1-beta/UpdateShield-iOS.mobileconfig](https://github.com/LizandroYT/UpdateShield-for-iOS/releases/tag/v0.1-beta))
 
 2. Abre el archivo `.mobileconfig` en tu dispositivo iOS.  
 3. Sigue las instrucciones para instalar el perfil.  
